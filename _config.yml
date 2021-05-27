@@ -1,12 +1,12 @@
-title:              "블로그 제목"
-tagline:            "블로그 슬로건"
+title:              "마개팅스쿨 4기"
+tagline:            "디지털 마케팅 취업스쿨"
 email:              "your-email@example.com"
-description:        "블로그 설명"
-author:             "작성자 이름"
+description:        "학생독립만세 마개팅 취업스쿨 4기 실습 블로그 웹페이지"
+author:             "학생독립만세"
 baseurl:            "/"
-url:                "https://도메인"
+url:                "https://magaeiner.github.io"
 locale:             "ko_KR"
-thumbnail:          "/img/thumbnail.jpg"
+thumbnail:          "/img/thumbnail.png"
 
 # Social Profiles
 twitter_username:   twitter_username
